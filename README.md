@@ -1,5 +1,5 @@
 # Project-Akhir-Struktur-Data
-Sistem Inventori Gudang
+
 Assalamu'alaikum wr wb 
 Berikut adalah source code projek akhir mata kuliah Struktur Data (Sistem Inventori Gudang) dengan dosen pengampu Bapak Dr. Ardiansyah, S.T., M.Cs.
 
